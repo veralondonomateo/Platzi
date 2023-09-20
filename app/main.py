@@ -1,7 +1,7 @@
 import mod
 import read_csv
 import charts
-
+import pandas as pd
 
 def run():
   data = read_csv.read_csv('data.csv')
@@ -20,3 +20,4 @@ def run():
 
 if __name__ == '__main__':
   run()
+

@@ -24,4 +24,5 @@ elif user_option == 'papel':
   if computer_option == 'piedra':
     print('Ganaste, el pc eligio Piedra')
   elif computer_option == 'tijera':
-    print('Perdiste, el pc eligió Tijera')
+    print('Perdiste, el pc eligió Tijera') 
+
